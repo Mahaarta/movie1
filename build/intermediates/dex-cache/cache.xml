@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\nanodegrees\MyHomeCinema\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="546be0af167d728b516eb2874b55a3f76295e6ce">
+        <dex dex="D:\nanodegrees\MyHomeCinema\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39b5cba175bc2e6ec9bd42fd419676197b0e0dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\nanodegrees\MyHomeCinema\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\nanodegrees\MyHomeCinema\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_07ea7cf6bbef905387896816a2adb3ea0a9ba22e\classes.dex" />
+    </item>
+
+</items>
